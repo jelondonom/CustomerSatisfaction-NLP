@@ -14,8 +14,6 @@ Unsupervised analysis of 1,000 customers of **Chase, Bank of America and Wells F
 | Segments | **5** (K-Means): Young professionals · Established homeowners · Mature multi-product · Highly leveraged earners · Under-engaged customers |
 | Deliverable | Saved pipeline that assigns any new customer to a segment and returns its offer |
 
-![Reasons by satisfaction level](reports/figures/07_reasons_by_level.png)
-![Segment profiles](reports/figures/11_segment_profiles.png)
 
 ## Repository structure
 
